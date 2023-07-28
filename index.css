@@ -1,0 +1,83 @@
+body {
+    margin: 0;
+    background: #1F2937;
+    display: inline;
+    font-family: 'Inter', sans-serif;
+    font-family: 'Karla', sans-serif;
+}
+
+.hero-text{
+    display: block;
+}
+
+h1{
+    font-size: 40px; 
+    height: 80px;
+    margin-top: 115px;
+    margin-left: 80px;
+    color: #D5D4D8;
+}
+
+h3{
+    font-weight: normal;
+    font-family: 'Inter';
+    font-size: 20px; 
+    height: 28px;
+    margin-left: 80px;
+    color: #BEBEBE;
+}
+#span-text{
+    display: block;
+    color: #4ADF86;
+}
+#gen-pass{ 
+    padding: 9px 17px 9px 15px;
+    border: none;
+    border-radius: 6px;
+    margin-top: 30px; 
+    margin-left: 80px;
+    background: #10B981;
+    color: white;
+    font-family: 'Inter';
+}
+
+#gen-pass:hover{
+    background-color: #10b981c5;
+} 
+
+hr {
+    margin-top: 40px; 
+    margin-left: 80px;
+    margin-right: 90px;
+    border: none;
+    border-bottom: 1px solid #2F3E53;
+}
+#rectangles{
+    display: flex;
+}
+#rec1{
+    margin-top: 20px; 
+    width: 211px;
+    height: 39px;
+    border-radius: 6px;
+    background: #273549;
+    margin-left: 80px; 
+    text-align: center;
+    line-height: 39px;
+    color: #55F991;
+    font-family: 'Inter';
+    font-size: 16px;
+}
+#rec2{
+    margin-top: 20px; 
+    width: 211px;
+    height: 39px;
+    border-radius: 6px;
+    background: #273549;
+    margin-left: 25px;
+    text-align: center;
+    line-height: 39px;
+    color: #55F991;
+    font-family: 'Inter';
+    font-size: 16px; 
+}
